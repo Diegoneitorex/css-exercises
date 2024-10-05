@@ -1,0 +1,20 @@
+.chiquito {
+ background-color: #f0394d;
+ font-family: Verdana, sans-serif;
+}
+
+.grande {
+  background-color: #f0394d;
+  font-size: 24px;
+}
+
+.part {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.par {
+  background-color: #008000;
+  font-size: 24px;
+  font-weight: bold;
+}
